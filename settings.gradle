@@ -1,0 +1,3 @@
+include ':app:testlibs'
+include ':app'
+rootProject.name = "LibB"
